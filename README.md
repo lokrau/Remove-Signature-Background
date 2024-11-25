@@ -4,3 +4,13 @@ The function defined in this notebook removes the background of signatures or ot
 
 To use the code one just has to put the image of the text in the folder ```input_image``` and specify the name of the file in the variable ```file_name```. The output will be saved in the folder ```output_image``` with the same name as the input file.
 
+Overall this looks like this:
+1. Input image
+
+![Input Image](example_images/input_image.png)
+
+2. Output image
+
+![Output Image](example_images/output_image.png)
+
+

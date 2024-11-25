@@ -1,3 +1,4 @@
 output_image/
-**/my_signature.*
+input_image/*
+!input_image/example_signature.png
 .DS_Store
